@@ -1,5 +1,5 @@
 {
   "request": {
-    "url": "http://localhost:3000/graphql"
+    "url": "http://34.131.47.79:3001/graphql"
   }
 }
